@@ -1,0 +1,16 @@
+.stApp {
+    background-color: #090c1d;
+    color: #EAE0CF;
+    font-family: Arial;
+}
+
+h1 {
+    color: #60a5fa;
+}
+
+.stButton>button {
+    background-color: #7288AE;
+    color: #EAE0CF;
+    border-radius: 10px;
+    padding: 10px;
+}
